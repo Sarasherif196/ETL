@@ -1,0 +1,304 @@
+PerformanceID|EmployeeID|FirstName|LastName|Gender|Age|BusinessTravel|Department|DistanceFromHome (KM)|State|Ethnicity|Education|EducationField|JobRole|MaritalStatus|Salary|StockOptionLevel|OverTime|HireDate|Attrition|YearsAtCompany|YearsInMostRecentRole|YearsSinceLastPromotion|YearsWithCurrManager|ReviewDate|EnvironmentSatisfaction|JobSatisfaction|RelationshipSatisfaction|TrainingOpportunitiesWithinYear|TrainingOpportunitiesTaken|WorkLifeBalance|SelfRating|ManagerRating
+PR1035|95D7-1CE9|Ahmed|Sykes|Male|43|Some Travel|Human Resources|29|CA|Asian or Asian American|4|Marketing |HR Business Partner|Married|309964|1|No|2012-01-04|No|10|6|10|8|2016-04-08|3|3|2|1|0|2|3|2
+PR1583|95D7-1CE9|Ahmed|Sykes|Male|43|Some Travel|Human Resources|29|CA|Asian or Asian American|4|Marketing |HR Business Partner|Married|309964|1|No|2012-01-04|No|10|6|10|8|2017-04-08|4|4|3|2|2|5|4|4
+PR2235|95D7-1CE9|Ahmed|Sykes|Male|43|Some Travel|Human Resources|29|CA|Asian or Asian American|4|Marketing |HR Business Partner|Married|309964|1|No|2012-01-04|No|10|6|10|8|2018-04-08|5|4|4|2|2|5|3|2
+PR280|95D7-1CE9|Ahmed|Sykes|Male|43|Some Travel|Human Resources|29|CA|Asian or Asian American|4|Marketing |HR Business Partner|Married|309964|1|No|2012-01-04|No|10|6|10|8|2014-04-09|5|2|3|1|0|2|4|4
+PR2981|95D7-1CE9|Ahmed|Sykes|Male|43|Some Travel|Human Resources|29|CA|Asian or Asian American|4|Marketing |HR Business Partner|Married|309964|1|No|2012-01-04|No|10|6|10|8|2019-04-08|3|4|2|3|0|2|3|3
+PR3851|95D7-1CE9|Ahmed|Sykes|Male|43|Some Travel|Human Resources|29|CA|Asian or Asian American|4|Marketing |HR Business Partner|Married|309964|1|No|2012-01-04|No|10|6|10|8|2020-04-07|4|2|3|3|0|5|3|2
+PR4841|95D7-1CE9|Ahmed|Sykes|Male|43|Some Travel|Human Resources|29|CA|Asian or Asian American|4|Marketing |HR Business Partner|Married|309964|1|No|2012-01-04|No|10|6|10|8|2021-04-07|4|4|3|3|2|4|4|3
+PR5918|95D7-1CE9|Ahmed|Sykes|Male|43|Some Travel|Human Resources|29|CA|Asian or Asian American|4|Marketing |HR Business Partner|Married|309964|1|No|2012-01-04|No|10|6|10|8|2022-04-07|4|5|3|3|0|4|4|3
+PR599|95D7-1CE9|Ahmed|Sykes|Male|43|Some Travel|Human Resources|29|CA|Asian or Asian American|4|Marketing |HR Business Partner|Married|309964|1|No|2012-01-04|No|10|6|10|8|2015-04-09|3|4|3|1|0|5|4|4
+PR1107|42CC-040A|Stace|Savege|Female|29|Some Travel|Human Resources|29|CA|White|2|Technical Degree|Recruiter|Single|49606|0|No|2012-01-05|Yes|6|1|1|6|2016-05-13|4|3|2|1|0|5|3|2
+PR137|42CC-040A|Stace|Savege|Female|29|Some Travel|Human Resources|29|CA|White|2|Technical Degree|Recruiter|Single|49606|0|No|2012-01-05|Yes|6|1|1|6|2013-05-14|5|2|4|2|1|5|4|3
+PR1662|42CC-040A|Stace|Savege|Female|29|Some Travel|Human Resources|29|CA|White|2|Technical Degree|Recruiter|Single|49606|0|No|2012-01-05|Yes|6|1|1|6|2017-05-13|4|3|5|1|2|4|4|3
+PR2321|42CC-040A|Stace|Savege|Female|29|Some Travel|Human Resources|29|CA|White|2|Technical Degree|Recruiter|Single|49606|0|No|2012-01-05|Yes|6|1|1|6|2018-05-13|4|3|2|1|1|3|4|3
+PR3078|42CC-040A|Stace|Savege|Female|29|Some Travel|Human Resources|29|CA|White|2|Technical Degree|Recruiter|Single|49606|0|No|2012-01-05|Yes|6|1|1|6|2019-05-13|4|5|4|3|0|4|4|3
+PR332|42CC-040A|Stace|Savege|Female|29|Some Travel|Human Resources|29|CA|White|2|Technical Degree|Recruiter|Single|49606|0|No|2012-01-05|Yes|6|1|1|6|2014-05-14|4|5|4|2|3|5|5|5
+PR3962|42CC-040A|Stace|Savege|Female|29|Some Travel|Human Resources|29|CA|White|2|Technical Degree|Recruiter|Single|49606|0|No|2012-01-05|Yes|6|1|1|6|2020-05-12|3|4|5|3|2|5|4|4
+PR4958|42CC-040A|Stace|Savege|Female|29|Some Travel|Human Resources|29|CA|White|2|Technical Degree|Recruiter|Single|49606|0|No|2012-01-05|Yes|6|1|1|6|2021-05-12|3|4|3|1|2|5|3|2
+PR661|42CC-040A|Stace|Savege|Female|29|Some Travel|Human Resources|29|CA|White|2|Technical Degree|Recruiter|Single|49606|0|No|2012-01-05|Yes|6|1|1|6|2015-05-14|5|2|5|2|1|3|3|2
+PR1318|C395-8C36|Curcio|Franek|Male|33|Some Travel|Human Resources|3|CA|Mixed or multiple ethnic groups|1|Technical Degree|Recruiter|Divorced|53616|1|Yes|2012-01-19|No|10|2|3|7|2016-11-17|4|2|5|3|0|2|3|3
+PR1940|C395-8C36|Curcio|Franek|Male|33|Some Travel|Human Resources|3|CA|Mixed or multiple ethnic groups|1|Technical Degree|Recruiter|Divorced|53616|1|Yes|2012-01-19|No|10|2|3|7|2017-11-17|5|5|3|1|3|3|5|4
+PR2650|C395-8C36|Curcio|Franek|Male|33|Some Travel|Human Resources|3|CA|Mixed or multiple ethnic groups|1|Technical Degree|Recruiter|Divorced|53616|1|Yes|2012-01-19|No|10|2|3|7|2018-11-17|3|5|3|3|0|3|4|3
+PR3472|C395-8C36|Curcio|Franek|Male|33|Some Travel|Human Resources|3|CA|Mixed or multiple ethnic groups|1|Technical Degree|Recruiter|Divorced|53616|1|Yes|2012-01-19|No|10|2|3|7|2019-11-17|5|3|4|1|2|4|4|4
+PR4420|C395-8C36|Curcio|Franek|Male|33|Some Travel|Human Resources|3|CA|Mixed or multiple ethnic groups|1|Technical Degree|Recruiter|Divorced|53616|1|Yes|2012-01-19|No|10|2|3|7|2020-11-16|4|4|4|3|1|5|5|4
+PR5465|C395-8C36|Curcio|Franek|Male|33|Some Travel|Human Resources|3|CA|Mixed or multiple ethnic groups|1|Technical Degree|Recruiter|Divorced|53616|1|Yes|2012-01-19|No|10|2|3|7|2021-11-16|1|1|2|3|1|4|5|4
+PR6581|C395-8C36|Curcio|Franek|Male|33|Some Travel|Human Resources|3|CA|Mixed or multiple ethnic groups|1|Technical Degree|Recruiter|Divorced|53616|1|Yes|2012-01-19|No|10|2|3|7|2022-11-16|3|2|4|2|0|2|5|5
+PR805|C395-8C36|Curcio|Franek|Male|33|Some Travel|Human Resources|3|CA|Mixed or multiple ethnic groups|1|Technical Degree|Recruiter|Divorced|53616|1|Yes|2012-01-19|No|10|2|3|7|2015-11-18|5|3|2|1|1|2|5|5
+PR1144|B3AF-7E58|Elvira|Ianelli|Female|45|Some Travel|Human Resources|34|NY|Black or African American|2|Human Resources|Recruiter|Divorced|54132|1|Yes|2012-01-20|No|10|10|10|10|2016-06-01|4|5|3|1|1|5|4|4
+PR1705|B3AF-7E58|Elvira|Ianelli|Female|45|Some Travel|Human Resources|34|NY|Black or African American|2|Human Resources|Recruiter|Divorced|54132|1|Yes|2012-01-20|No|10|10|10|10|2017-06-01|3|5|5|3|0|3|3|2
+PR2367|B3AF-7E58|Elvira|Ianelli|Female|45|Some Travel|Human Resources|34|NY|Black or African American|2|Human Resources|Recruiter|Divorced|54132|1|Yes|2012-01-20|No|10|10|10|10|2018-06-01|3|3|3|2|1|4|5|4
+PR3134|B3AF-7E58|Elvira|Ianelli|Female|45|Some Travel|Human Resources|34|NY|Black or African American|2|Human Resources|Recruiter|Divorced|54132|1|Yes|2012-01-20|No|10|10|10|10|2019-06-01|5|5|2|3|0|2|4|3
+PR4025|B3AF-7E58|Elvira|Ianelli|Female|45|Some Travel|Human Resources|34|NY|Black or African American|2|Human Resources|Recruiter|Divorced|54132|1|Yes|2012-01-20|No|10|10|10|10|2020-05-31|4|2|2|2|3|4|3|3
+PR5027|B3AF-7E58|Elvira|Ianelli|Female|45|Some Travel|Human Resources|34|NY|Black or African American|2|Human Resources|Recruiter|Divorced|54132|1|Yes|2012-01-20|No|10|10|10|10|2021-05-31|5|2|4|1|0|3|5|5
+PR6113|B3AF-7E58|Elvira|Ianelli|Female|45|Some Travel|Human Resources|34|NY|Black or African American|2|Human Resources|Recruiter|Divorced|54132|1|Yes|2012-01-20|No|10|10|10|10|2022-05-31|3|2|2|3|0|4|3|2
+PR690|B3AF-7E58|Elvira|Ianelli|Female|45|Some Travel|Human Resources|34|NY|Black or African American|2|Human Resources|Recruiter|Divorced|54132|1|Yes|2012-01-20|No|10|10|10|10|2015-06-02|4|3|4|3|1|5|3|3
+PR1310|BFF3-AADC|Collen|Sedman|Female|31|No Travel |Human Resources|25|NY|American Indian or Alaska Native|2|Marketing |Recruiter|Divorced|55682|1|No|2012-01-25|No|10|0|2|0|2016-11-09|3|5|4|1|2|3|3|2
+PR1928|BFF3-AADC|Collen|Sedman|Female|31|No Travel |Human Resources|25|NY|American Indian or Alaska Native|2|Marketing |Recruiter|Divorced|55682|1|No|2012-01-25|No|10|0|2|0|2017-11-09|4|3|5|3|3|4|4|3
+PR2639|BFF3-AADC|Collen|Sedman|Female|31|No Travel |Human Resources|25|NY|American Indian or Alaska Native|2|Marketing |Recruiter|Divorced|55682|1|No|2012-01-25|No|10|0|2|0|2018-11-09|3|5|5|1|3|3|3|2
+PR3460|BFF3-AADC|Collen|Sedman|Female|31|No Travel |Human Resources|25|NY|American Indian or Alaska Native|2|Marketing |Recruiter|Divorced|55682|1|No|2012-01-25|No|10|0|2|0|2019-11-09|4|5|2|3|3|2|5|5
+PR4405|BFF3-AADC|Collen|Sedman|Female|31|No Travel |Human Resources|25|NY|American Indian or Alaska Native|2|Marketing |Recruiter|Divorced|55682|1|No|2012-01-25|No|10|0|2|0|2020-11-08|3|2|5|3|1|4|5|5
+PR5445|BFF3-AADC|Collen|Sedman|Female|31|No Travel |Human Resources|25|NY|American Indian or Alaska Native|2|Marketing |Recruiter|Divorced|55682|1|No|2012-01-25|No|10|0|2|0|2021-11-08|4|3|3|1|0|2|5|4
+PR6559|BFF3-AADC|Collen|Sedman|Female|31|No Travel |Human Resources|25|NY|American Indian or Alaska Native|2|Marketing |Recruiter|Divorced|55682|1|No|2012-01-25|No|10|0|2|0|2022-11-08|5|5|3|2|2|4|4|4
+PR800|BFF3-AADC|Collen|Sedman|Female|31|No Travel |Human Resources|25|NY|American Indian or Alaska Native|2|Marketing |Recruiter|Divorced|55682|1|No|2012-01-25|No|10|0|2|0|2015-11-10|3|4|2|1|1|3|5|4
+PR1376|79F3-8AA5|Lacy|Domerc|Female|47|Some Travel|Human Resources|21|NY|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Single|98608|0|No|2012-02-14|No|10|5|10|4|2016-12-31|1|3|2|2|1|1|3|2
+PR2006|79F3-8AA5|Lacy|Domerc|Female|47|Some Travel|Human Resources|21|NY|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Single|98608|0|No|2012-02-14|No|10|5|10|4|2017-12-31|4|4|4|2|1|5|3|3
+PR2728|79F3-8AA5|Lacy|Domerc|Female|47|Some Travel|Human Resources|21|NY|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Single|98608|0|No|2012-02-14|No|10|5|10|4|2018-12-31|3|5|4|2|0|3|4|4
+PR3564|79F3-8AA5|Lacy|Domerc|Female|47|Some Travel|Human Resources|21|NY|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Single|98608|0|No|2012-02-14|No|10|5|10|4|2019-12-31|5|3|4|1|2|4|4|3
+PR438|79F3-8AA5|Lacy|Domerc|Female|47|Some Travel|Human Resources|21|NY|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Single|98608|0|No|2012-02-14|No|10|5|10|4|2015-01-01|3|2|2|1|2|4|5|4
+PR4524|79F3-8AA5|Lacy|Domerc|Female|47|Some Travel|Human Resources|21|NY|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Single|98608|0|No|2012-02-14|No|10|5|10|4|2020-12-30|5|3|2|1|0|5|4|4
+PR5579|79F3-8AA5|Lacy|Domerc|Female|47|Some Travel|Human Resources|21|NY|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Single|98608|0|No|2012-02-14|No|10|5|10|4|2021-12-30|4|3|3|3|1|4|3|2
+PR849|79F3-8AA5|Lacy|Domerc|Female|47|Some Travel|Human Resources|21|NY|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Single|98608|0|No|2012-02-14|No|10|5|10|4|2016-01-01|5|4|5|2|1|3|5|4
+PR1155|D584-4E31|Patrica|Lamyman|Female|35|Some Travel|Human Resources|22|CA|Mixed or multiple ethnic groups|1|Economics|Recruiter|Married|67264|0|No|2012-02-22|No|10|8|8|2|2016-06-09|5|5|4|2|1|5|3|2
+PR1717|D584-4E31|Patrica|Lamyman|Female|35|Some Travel|Human Resources|22|CA|Mixed or multiple ethnic groups|1|Economics|Recruiter|Married|67264|0|No|2012-02-22|No|10|8|8|2|2017-06-09|5|2|2|3|1|5|5|5
+PR2382|D584-4E31|Patrica|Lamyman|Female|35|Some Travel|Human Resources|22|CA|Mixed or multiple ethnic groups|1|Economics|Recruiter|Married|67264|0|No|2012-02-22|No|10|8|8|2|2018-06-09|4|4|4|2|1|5|3|3
+PR3149|D584-4E31|Patrica|Lamyman|Female|35|Some Travel|Human Resources|22|CA|Mixed or multiple ethnic groups|1|Economics|Recruiter|Married|67264|0|No|2012-02-22|No|10|8|8|2|2019-06-09|5|2|3|3|1|4|3|3
+PR4044|D584-4E31|Patrica|Lamyman|Female|35|Some Travel|Human Resources|22|CA|Mixed or multiple ethnic groups|1|Economics|Recruiter|Married|67264|0|No|2012-02-22|No|10|8|8|2|2020-06-08|4|4|2|2|3|4|5|4
+PR5047|D584-4E31|Patrica|Lamyman|Female|35|Some Travel|Human Resources|22|CA|Mixed or multiple ethnic groups|1|Economics|Recruiter|Married|67264|0|No|2012-02-22|No|10|8|8|2|2021-06-08|5|2|4|1|3|2|4|4
+PR6137|D584-4E31|Patrica|Lamyman|Female|35|Some Travel|Human Resources|22|CA|Mixed or multiple ethnic groups|1|Economics|Recruiter|Married|67264|0|No|2012-02-22|No|10|8|8|2|2022-06-08|5|4|5|2|1|5|4|3
+PR695|D584-4E31|Patrica|Lamyman|Female|35|Some Travel|Human Resources|22|CA|Mixed or multiple ethnic groups|1|Economics|Recruiter|Married|67264|0|No|2012-02-22|No|10|8|8|2|2015-06-10|4|5|4|2|3|5|5|5
+PR1466|9DFE-1FD5|Angel|Hazeup|Male|42|Some Travel|Human Resources|4|IL|Black or African American|3|Human Resources|HR Manager|Married|463051|1|No|2012-03-01|No|10|0|10|7|2017-02-09|3|2|3|3|2|5|3|3
+PR2101|9DFE-1FD5|Angel|Hazeup|Male|42|Some Travel|Human Resources|4|IL|Black or African American|3|Human Resources|HR Manager|Married|463051|1|No|2012-03-01|No|10|0|10|7|2018-02-09|3|4|3|1|0|3|5|4
+PR2832|9DFE-1FD5|Angel|Hazeup|Male|42|Some Travel|Human Resources|4|IL|Black or African American|3|Human Resources|HR Manager|Married|463051|1|No|2012-03-01|No|10|0|10|7|2019-02-09|4|2|3|2|0|2|3|2
+PR3684|9DFE-1FD5|Angel|Hazeup|Male|42|Some Travel|Human Resources|4|IL|Black or African American|3|Human Resources|HR Manager|Married|463051|1|No|2012-03-01|No|10|0|10|7|2020-02-09|3|3|5|3|0|4|5|5
+PR4657|9DFE-1FD5|Angel|Hazeup|Male|42|Some Travel|Human Resources|4|IL|Black or African American|3|Human Resources|HR Manager|Married|463051|1|No|2012-03-01|No|10|0|10|7|2021-02-08|5|3|4|2|1|2|5|4
+PR504|9DFE-1FD5|Angel|Hazeup|Male|42|Some Travel|Human Resources|4|IL|Black or African American|3|Human Resources|HR Manager|Married|463051|1|No|2012-03-01|No|10|0|10|7|2015-02-10|5|4|4|1|0|5|5|4
+PR5720|9DFE-1FD5|Angel|Hazeup|Male|42|Some Travel|Human Resources|4|IL|Black or African American|3|Human Resources|HR Manager|Married|463051|1|No|2012-03-01|No|10|0|10|7|2022-02-08|5|5|2|2|0|3|5|5
+PR924|9DFE-1FD5|Angel|Hazeup|Male|42|Some Travel|Human Resources|4|IL|Black or African American|3|Human Resources|HR Manager|Married|463051|1|No|2012-03-01|No|10|0|10|7|2016-02-10|5|5|2|1|0|5|5|4
+PR1542|8233-2483|Sheba|McCromley|Female|35|Some Travel|Human Resources|7|CA|Mixed or multiple ethnic groups|3|Marketing |Recruiter|Divorced|47995|3|Yes|2012-03-12|No|10|5|6|3|2017-03-14|2|4|3|1|1|1|5|4
+PR2186|8233-2483|Sheba|McCromley|Female|35|Some Travel|Human Resources|7|CA|Mixed or multiple ethnic groups|3|Marketing |Recruiter|Divorced|47995|3|Yes|2012-03-12|No|10|5|6|3|2018-03-14|5|4|4|3|0|3|4|4
+PR2923|8233-2483|Sheba|McCromley|Female|35|Some Travel|Human Resources|7|CA|Mixed or multiple ethnic groups|3|Marketing |Recruiter|Divorced|47995|3|Yes|2012-03-12|No|10|5|6|3|2019-03-14|3|4|5|1|3|2|5|5
+PR3783|8233-2483|Sheba|McCromley|Female|35|Some Travel|Human Resources|7|CA|Mixed or multiple ethnic groups|3|Marketing |Recruiter|Divorced|47995|3|Yes|2012-03-12|No|10|5|6|3|2020-03-13|3|4|4|2|3|5|3|2
+PR4765|8233-2483|Sheba|McCromley|Female|35|Some Travel|Human Resources|7|CA|Mixed or multiple ethnic groups|3|Marketing |Recruiter|Divorced|47995|3|Yes|2012-03-12|No|10|5|6|3|2021-03-13|5|2|3|2|1|4|4|3
+PR564|8233-2483|Sheba|McCromley|Female|35|Some Travel|Human Resources|7|CA|Mixed or multiple ethnic groups|3|Marketing |Recruiter|Divorced|47995|3|Yes|2012-03-12|No|10|5|6|3|2015-03-15|4|4|5|3|1|2|4|3
+PR5834|8233-2483|Sheba|McCromley|Female|35|Some Travel|Human Resources|7|CA|Mixed or multiple ethnic groups|3|Marketing |Recruiter|Divorced|47995|3|Yes|2012-03-12|No|10|5|6|3|2022-03-13|4|3|3|2|0|2|4|4
+PR997|8233-2483|Sheba|McCromley|Female|35|Some Travel|Human Resources|7|CA|Mixed or multiple ethnic groups|3|Marketing |Recruiter|Divorced|47995|3|Yes|2012-03-12|No|10|5|6|3|2016-03-14|3|4|2|3|1|2|3|2
+PR1174|E8F5-C47D|Jayne|Mickleburgh|Female|30|Some Travel|Human Resources|19|NY|Mixed or multiple ethnic groups|3|Human Resources|HR Executive|Married|97153|1|No|2012-03-25|No|10|5|6|9|2016-06-26|3|2|3|3|1|2|4|3
+PR1743|E8F5-C47D|Jayne|Mickleburgh|Female|30|Some Travel|Human Resources|19|NY|Mixed or multiple ethnic groups|3|Human Resources|HR Executive|Married|97153|1|No|2012-03-25|No|10|5|6|9|2017-06-26|4|4|3|1|3|2|3|3
+PR2409|E8F5-C47D|Jayne|Mickleburgh|Female|30|Some Travel|Human Resources|19|NY|Mixed or multiple ethnic groups|3|Human Resources|HR Executive|Married|97153|1|No|2012-03-25|No|10|5|6|9|2018-06-26|2|3|1|1|0|3|5|5
+PR3183|E8F5-C47D|Jayne|Mickleburgh|Female|30|Some Travel|Human Resources|19|NY|Mixed or multiple ethnic groups|3|Human Resources|HR Executive|Married|97153|1|No|2012-03-25|No|10|5|6|9|2019-06-26|3|3|2|1|0|5|5|4
+PR4085|E8F5-C47D|Jayne|Mickleburgh|Female|30|Some Travel|Human Resources|19|NY|Mixed or multiple ethnic groups|3|Human Resources|HR Executive|Married|97153|1|No|2012-03-25|No|10|5|6|9|2020-06-25|3|2|2|2|1|1|5|5
+PR5088|E8F5-C47D|Jayne|Mickleburgh|Female|30|Some Travel|Human Resources|19|NY|Mixed or multiple ethnic groups|3|Human Resources|HR Executive|Married|97153|1|No|2012-03-25|No|10|5|6|9|2021-06-25|4|5|2|1|0|5|4|4
+PR6184|E8F5-C47D|Jayne|Mickleburgh|Female|30|Some Travel|Human Resources|19|NY|Mixed or multiple ethnic groups|3|Human Resources|HR Executive|Married|97153|1|No|2012-03-25|No|10|5|6|9|2022-06-25|4|2|2|3|1|3|3|3
+PR712|E8F5-C47D|Jayne|Mickleburgh|Female|30|Some Travel|Human Resources|19|NY|Mixed or multiple ethnic groups|3|Human Resources|HR Executive|Married|97153|1|No|2012-03-25|No|10|5|6|9|2015-06-27|3|3|5|3|1|5|5|5
+PR1122|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2016-05-20|4|4|3|1|0|3|5|5
+PR146|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2013-05-21|4|5|5|2|1|4|3|2
+PR1677|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2017-05-20|4|2|5|2|0|5|3|2
+PR2338|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2018-05-20|3|2|2|1|1|3|4|4
+PR3098|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2019-05-20|3|2|5|2|0|2|4|3
+PR341|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2014-05-21|4|4|4|3|0|2|5|4
+PR3986|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2020-05-19|4|2|2|3|0|5|4|3
+PR4986|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2021-05-19|3|5|3|2|1|2|3|3
+PR6070|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2022-05-19|3|5|3|3|1|5|3|2
+PR673|9169-FC4B|Reinaldos|Baynes|Male|28|Some Travel|Human Resources|18|CA|Native Hawaiian |2|Economics|HR Executive|Married|179561|1|No|2012-05-09|Yes|1|0|0|1|2015-05-21|4|4|2|3|2|4|3|2
+PR1455|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2017-02-04|5|5|2|3|1|2|3|3
+PR199|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2014-02-05|4|5|5|2|1|2|4|4
+PR2087|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2018-02-04|3|4|3|3|1|5|5|4
+PR2816|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2019-02-04|3|4|3|1|1|3|4|3
+PR3666|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2020-02-04|5|2|3|3|0|3|3|2
+PR41|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2013-02-05|3|2|4|2|1|4|3|2
+PR4638|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2021-02-03|3|2|1|1|2|3|4|3
+PR495|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2015-02-05|5|5|4|2|3|5|3|3
+PR5700|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2022-02-03|4|1|3|1|1|1|4|4
+PR915|8EE9-E86D|Conn|Mouser|Male|46|Some Travel|Human Resources|45|IL|White|3|Human Resources|Recruiter|Divorced|48740|3|Yes|2012-05-20|Yes|10|8|9|6|2016-02-05|4|4|4|2|2|5|5|5
+PR1084|59DB-8465|Nancey|Luetkemeyers|Female|47|Frequent Traveller|Human Resources|3|CA|White|3|Marketing |HR Executive|Married|85744|2|No|2013-03-02|No|9|0|9|8|2016-05-02|5|5|4|2|0|4|3|2
+PR1638|59DB-8465|Nancey|Luetkemeyers|Female|47|Frequent Traveller|Human Resources|3|CA|White|3|Marketing |HR Executive|Married|85744|2|No|2013-03-02|No|9|0|9|8|2017-05-02|4|4|3|2|3|2|5|5
+PR2296|59DB-8465|Nancey|Luetkemeyers|Female|47|Frequent Traveller|Human Resources|3|CA|White|3|Marketing |HR Executive|Married|85744|2|No|2013-03-02|No|9|0|9|8|2018-05-02|4|5|4|2|1|2|3|3
+PR3049|59DB-8465|Nancey|Luetkemeyers|Female|47|Frequent Traveller|Human Resources|3|CA|White|3|Marketing |HR Executive|Married|85744|2|No|2013-03-02|No|9|0|9|8|2019-05-02|4|2|3|1|2|5|3|2
+PR3933|59DB-8465|Nancey|Luetkemeyers|Female|47|Frequent Traveller|Human Resources|3|CA|White|3|Marketing |HR Executive|Married|85744|2|No|2013-03-02|No|9|0|9|8|2020-05-01|5|5|2|3|2|2|4|3
+PR4928|59DB-8465|Nancey|Luetkemeyers|Female|47|Frequent Traveller|Human Resources|3|CA|White|3|Marketing |HR Executive|Married|85744|2|No|2013-03-02|No|9|0|9|8|2021-05-01|5|5|3|2|0|2|5|4
+PR6009|59DB-8465|Nancey|Luetkemeyers|Female|47|Frequent Traveller|Human Resources|3|CA|White|3|Marketing |HR Executive|Married|85744|2|No|2013-03-02|No|9|0|9|8|2022-05-01|5|5|5|1|2|3|5|4
+PR1321|4DA0-81D7|Cole|Vost|Male|28|Some Travel|Human Resources|34|CA|Asian or Asian American|2|Marketing |HR Executive|Single|94534|0|No|2013-05-11|No|9|3|3|1|2016-11-18|5|4|4|2|0|2|5|5
+PR1944|4DA0-81D7|Cole|Vost|Male|28|Some Travel|Human Resources|34|CA|Asian or Asian American|2|Marketing |HR Executive|Single|94534|0|No|2013-05-11|No|9|3|3|1|2017-11-18|4|5|5|3|1|4|5|4
+PR2654|4DA0-81D7|Cole|Vost|Male|28|Some Travel|Human Resources|34|CA|Asian or Asian American|2|Marketing |HR Executive|Single|94534|0|No|2013-05-11|No|9|3|3|1|2018-11-18|3|2|3|3|1|3|5|5
+PR3476|4DA0-81D7|Cole|Vost|Male|28|Some Travel|Human Resources|34|CA|Asian or Asian American|2|Marketing |HR Executive|Single|94534|0|No|2013-05-11|No|9|3|3|1|2019-11-18|3|4|5|2|0|3|4|4
+PR4424|4DA0-81D7|Cole|Vost|Male|28|Some Travel|Human Resources|34|CA|Asian or Asian American|2|Marketing |HR Executive|Single|94534|0|No|2013-05-11|No|9|3|3|1|2020-11-17|4|5|3|2|2|3|4|3
+PR5468|4DA0-81D7|Cole|Vost|Male|28|Some Travel|Human Resources|34|CA|Asian or Asian American|2|Marketing |HR Executive|Single|94534|0|No|2013-05-11|No|9|3|3|1|2021-11-17|3|2|1|3|2|2|4|3
+PR6585|4DA0-81D7|Cole|Vost|Male|28|Some Travel|Human Resources|34|CA|Asian or Asian American|2|Marketing |HR Executive|Single|94534|0|No|2013-05-11|No|9|3|3|1|2022-11-17|3|5|2|2|1|4|3|3
+PR1253|1D35-190A|Carena|Devita|Female|35|Some Travel|Human Resources|18|CA|Asian or Asian American|4|Marketing |HR Executive|Single|132563|0|Yes|2013-09-22|No|9|1|6|9|2016-09-11|5|5|4|1|0|2|5|4
+PR1849|1D35-190A|Carena|Devita|Female|35|Some Travel|Human Resources|18|CA|Asian or Asian American|4|Marketing |HR Executive|Single|132563|0|Yes|2013-09-22|No|9|1|6|9|2017-09-11|5|5|5|2|2|3|5|4
+PR2543|1D35-190A|Carena|Devita|Female|35|Some Travel|Human Resources|18|CA|Asian or Asian American|4|Marketing |HR Executive|Single|132563|0|Yes|2013-09-22|No|9|1|6|9|2018-09-11|3|2|5|1|0|3|3|3
+PR3347|1D35-190A|Carena|Devita|Female|35|Some Travel|Human Resources|18|CA|Asian or Asian American|4|Marketing |HR Executive|Single|132563|0|Yes|2013-09-22|No|9|1|6|9|2019-09-11|4|2|3|3|0|4|5|4
+PR4274|1D35-190A|Carena|Devita|Female|35|Some Travel|Human Resources|18|CA|Asian or Asian American|4|Marketing |HR Executive|Single|132563|0|Yes|2013-09-22|No|9|1|6|9|2020-09-10|4|3|2|2|2|5|5|4
+PR5301|1D35-190A|Carena|Devita|Female|35|Some Travel|Human Resources|18|CA|Asian or Asian American|4|Marketing |HR Executive|Single|132563|0|Yes|2013-09-22|No|9|1|6|9|2021-09-10|3|5|5|1|2|2|5|4
+PR6407|1D35-190A|Carena|Devita|Female|35|Some Travel|Human Resources|18|CA|Asian or Asian American|4|Marketing |HR Executive|Single|132563|0|Yes|2013-09-22|No|9|1|6|9|2022-09-10|3|2|3|2|0|3|3|2
+PR1248|D6A7-EF72|Kalie|Swancott|Female|40|Some Travel|Human Resources|7|CA|White|4|Technical Degree|Recruiter|Single|70703|0|No|2013-12-04|No|9|0|9|7|2016-09-03|3|5|3|2|2|2|3|3
+PR1843|D6A7-EF72|Kalie|Swancott|Female|40|Some Travel|Human Resources|7|CA|White|4|Technical Degree|Recruiter|Single|70703|0|No|2013-12-04|No|9|0|9|7|2017-09-03|5|4|4|1|0|4|3|3
+PR2533|D6A7-EF72|Kalie|Swancott|Female|40|Some Travel|Human Resources|7|CA|White|4|Technical Degree|Recruiter|Single|70703|0|No|2013-12-04|No|9|0|9|7|2018-09-03|3|4|3|1|3|3|5|5
+PR3334|D6A7-EF72|Kalie|Swancott|Female|40|Some Travel|Human Resources|7|CA|White|4|Technical Degree|Recruiter|Single|70703|0|No|2013-12-04|No|9|0|9|7|2019-09-03|4|2|3|3|1|3|3|2
+PR4258|D6A7-EF72|Kalie|Swancott|Female|40|Some Travel|Human Resources|7|CA|White|4|Technical Degree|Recruiter|Single|70703|0|No|2013-12-04|No|9|0|9|7|2020-09-02|4|5|4|2|1|3|5|4
+PR5283|D6A7-EF72|Kalie|Swancott|Female|40|Some Travel|Human Resources|7|CA|White|4|Technical Degree|Recruiter|Single|70703|0|No|2013-12-04|No|9|0|9|7|2021-09-02|4|5|3|3|2|2|3|2
+PR6388|D6A7-EF72|Kalie|Swancott|Female|40|Some Travel|Human Resources|7|CA|White|4|Technical Degree|Recruiter|Single|70703|0|No|2013-12-04|No|9|0|9|7|2022-09-02|5|2|5|1|2|5|4|4
+PR1796|205B-4D34|Cris|Jeram|Male|41|Frequent Traveller|Human Resources|39|CA|Mixed or multiple ethnic groups|1|Human Resources|HR Executive|Single|79990|0|No|2014-06-29|No|8|5|5|8|2017-07-25|3|5|3|2|1|5|3|2
+PR2470|205B-4D34|Cris|Jeram|Male|41|Frequent Traveller|Human Resources|39|CA|Mixed or multiple ethnic groups|1|Human Resources|HR Executive|Single|79990|0|No|2014-06-29|No|8|5|5|8|2018-07-25|4|3|2|2|1|1|4|4
+PR3258|205B-4D34|Cris|Jeram|Male|41|Frequent Traveller|Human Resources|39|CA|Mixed or multiple ethnic groups|1|Human Resources|HR Executive|Single|79990|0|No|2014-06-29|No|8|5|5|8|2019-07-25|5|3|4|3|3|5|4|3
+PR4168|205B-4D34|Cris|Jeram|Male|41|Frequent Traveller|Human Resources|39|CA|Mixed or multiple ethnic groups|1|Human Resources|HR Executive|Single|79990|0|No|2014-06-29|No|8|5|5|8|2020-07-24|3|3|4|3|0|2|4|3
+PR5184|205B-4D34|Cris|Jeram|Male|41|Frequent Traveller|Human Resources|39|CA|Mixed or multiple ethnic groups|1|Human Resources|HR Executive|Single|79990|0|No|2014-06-29|No|8|5|5|8|2021-07-24|3|3|3|1|0|2|3|2
+PR6287|205B-4D34|Cris|Jeram|Male|41|Frequent Traveller|Human Resources|39|CA|Mixed or multiple ethnic groups|1|Human Resources|HR Executive|Single|79990|0|No|2014-06-29|No|8|5|5|8|2022-07-24|4|3|3|1|1|4|5|5
+PR1415|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2017-01-17|5|2|5|2|3|5|3|2
+PR176|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2014-01-18|5|3|5|2|1|5|3|2
+PR2045|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2018-01-17|5|3|2|3|0|4|3|2
+PR22|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2013-01-18|5|2|2|3|1|2|4|4
+PR2770|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2019-01-17|4|5|2|1|0|5|5|4
+PR3616|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2020-01-17|5|3|5|3|1|3|3|3
+PR4584|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2021-01-16|3|4|4|3|1|5|4|4
+PR469|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2015-01-18|5|2|3|1|0|5|4|3
+PR5643|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2022-01-16|2|4|2|2|0|1|3|2
+PR882|8D34-EBDF|Giles|Bilham|Male|29|Some Travel|Human Resources|14|IL|Native Hawaiian |4|Technical Degree|Recruiter|Married|46703|0|No|2014-07-31|Yes|0|0|0|0|2016-01-18|4|5|4|3|2|2|5|4
+PR1030|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2016-04-03|5|4|5|2|1|4|5|5
+PR1577|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2017-04-03|3|5|4|1|1|4|3|2
+PR2227|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2018-04-03|5|3|3|2|0|2|3|2
+PR274|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2014-04-04|5|3|2|2|1|3|3|2
+PR2972|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2019-04-03|5|5|3|2|1|3|5|4
+PR3839|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2020-04-02|1|4|3|3|2|1|5|5
+PR4828|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2021-04-02|5|4|3|3|0|4|5|4
+PR5904|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2022-04-02|5|3|5|1|0|2|5|4
+PR593|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2015-04-04|4|4|5|1|0|2|4|4
+PR96|B6EC-313E|Corbin|Gooddy|Male|26|Frequent Traveller|Human Resources|17|CA|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Divorced|30502|1|No|2014-08-09|Yes|0|0|0|0|2013-04-04|3|5|5|3|0|5|4|3
+PR1070|BAF9-933D|Pauly|Gero|Male|41|Some Travel|Human Resources|36|CA|White|3|Human Resources|HR Executive|Married|131047|0|No|2014-12-23|No|8|4|4|7|2016-04-24|5|5|2|2|1|4|5|5
+PR112|BAF9-933D|Pauly|Gero|Male|41|Some Travel|Human Resources|36|CA|White|3|Human Resources|HR Executive|Married|131047|0|No|2014-12-23|No|8|4|4|7|2013-04-25|5|2|4|3|0|5|5|4
+PR1623|BAF9-933D|Pauly|Gero|Male|41|Some Travel|Human Resources|36|CA|White|3|Human Resources|HR Executive|Married|131047|0|No|2014-12-23|No|8|4|4|7|2017-04-24|5|4|3|3|2|3|3|3
+PR2282|BAF9-933D|Pauly|Gero|Male|41|Some Travel|Human Resources|36|CA|White|3|Human Resources|HR Executive|Married|131047|0|No|2014-12-23|No|8|4|4|7|2018-04-24|5|3|2|1|0|5|3|3
+PR301|BAF9-933D|Pauly|Gero|Male|41|Some Travel|Human Resources|36|CA|White|3|Human Resources|HR Executive|Married|131047|0|No|2014-12-23|No|8|4|4|7|2014-04-25|5|5|5|3|0|2|4|4
+PR628|BAF9-933D|Pauly|Gero|Male|41|Some Travel|Human Resources|36|CA|White|3|Human Resources|HR Executive|Married|131047|0|No|2014-12-23|No|8|4|4|7|2015-04-25|4|5|4|3|0|3|4|4
+PR03|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2013-01-03|3|4|5|3|2|3|5|4
+PR1379|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2017-01-02|2|2|3|1|2|1|5|4
+PR155|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2014-01-03|4|3|2|2|1|3|4|4
+PR2010|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2018-01-02|4|2|4|1|2|3|3|3
+PR2733|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2019-01-02|3|2|3|3|0|2|3|3
+PR3570|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2020-01-02|5|4|3|1|0|5|3|3
+PR441|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2015-01-03|5|3|4|3|0|3|4|3
+PR4531|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2021-01-01|3|4|4|1|3|2|3|3
+PR5586|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2022-01-01|4|5|2|2|1|3|5|4
+PR852|F5E3-48BB|Zenia|Rattery|Female|25|Frequent Traveller|Human Resources|3|CA|American Indian or Alaska Native|3|Human Resources|Recruiter|Married|23547|0|No|2015-01-13|Yes|3|0|2|1|2016-01-03|3|2|2|2|1|4|3|3
+PR1437|6227-9D9E|Malina|Chivrall|Female|26|Some Travel|Human Resources|5|CA|Mixed or multiple ethnic groups|4|Human Resources|HR Manager|Married|315071|1|Yes|2015-01-25|No|7|7|7|1|2017-01-26|3|2|2|2|1|5|3|2
+PR2066|6227-9D9E|Malina|Chivrall|Female|26|Some Travel|Human Resources|5|CA|Mixed or multiple ethnic groups|4|Human Resources|HR Manager|Married|315071|1|Yes|2015-01-25|No|7|7|7|1|2018-01-26|4|2|4|3|0|4|3|2
+PR2793|6227-9D9E|Malina|Chivrall|Female|26|Some Travel|Human Resources|5|CA|Mixed or multiple ethnic groups|4|Human Resources|HR Manager|Married|315071|1|Yes|2015-01-25|No|7|7|7|1|2019-01-26|5|5|4|3|0|3|3|2
+PR3642|6227-9D9E|Malina|Chivrall|Female|26|Some Travel|Human Resources|5|CA|Mixed or multiple ethnic groups|4|Human Resources|HR Manager|Married|315071|1|Yes|2015-01-25|No|7|7|7|1|2020-01-26|3|3|3|3|2|5|3|3
+PR4611|6227-9D9E|Malina|Chivrall|Female|26|Some Travel|Human Resources|5|CA|Mixed or multiple ethnic groups|4|Human Resources|HR Manager|Married|315071|1|Yes|2015-01-25|No|7|7|7|1|2021-01-25|4|3|3|3|1|2|5|4
+PR2593|8DA7-0090|Farica|Fardell|Non-Binary|41|Some Travel|Human Resources|11|NY|Black or African American|2|Economics|HR Business Partner|Single|445906|0|Yes|2015-04-01|No|7|1|5|4|2018-10-15|4|5|3|3|3|2|4|3
+PR3404|8DA7-0090|Farica|Fardell|Non-Binary|41|Some Travel|Human Resources|11|NY|Black or African American|2|Economics|HR Business Partner|Single|445906|0|Yes|2015-04-01|No|7|1|5|4|2019-10-15|3|4|2|2|2|5|3|2
+PR4339|8DA7-0090|Farica|Fardell|Non-Binary|41|Some Travel|Human Resources|11|NY|Black or African American|2|Economics|HR Business Partner|Single|445906|0|Yes|2015-04-01|No|7|1|5|4|2020-10-14|3|4|4|3|1|2|3|2
+PR5376|8DA7-0090|Farica|Fardell|Non-Binary|41|Some Travel|Human Resources|11|NY|Black or African American|2|Economics|HR Business Partner|Single|445906|0|Yes|2015-04-01|No|7|1|5|4|2021-10-14|5|2|4|3|0|3|3|3
+PR6490|8DA7-0090|Farica|Fardell|Non-Binary|41|Some Travel|Human Resources|11|NY|Black or African American|2|Economics|HR Business Partner|Single|445906|0|Yes|2015-04-01|No|7|1|5|4|2022-10-14|5|2|3|1|1|5|4|4
+PR2418|74F3-DF3D|Lian|Ouslem|Female|25|Some Travel|Human Resources|22|NY|Black or African American|2|Economics|HR Executive|Divorced|49131|1|No|2015-05-30|No|7|2|6|2|2018-06-30|4|5|4|3|2|3|3|3
+PR3194|74F3-DF3D|Lian|Ouslem|Female|25|Some Travel|Human Resources|22|NY|Black or African American|2|Economics|HR Executive|Divorced|49131|1|No|2015-05-30|No|7|2|6|2|2019-06-30|3|5|4|1|0|3|3|2
+PR4096|74F3-DF3D|Lian|Ouslem|Female|25|Some Travel|Human Resources|22|NY|Black or African American|2|Economics|HR Executive|Divorced|49131|1|No|2015-05-30|No|7|2|6|2|2020-06-29|3|2|2|1|1|4|5|4
+PR5101|74F3-DF3D|Lian|Ouslem|Female|25|Some Travel|Human Resources|22|NY|Black or African American|2|Economics|HR Executive|Divorced|49131|1|No|2015-05-30|No|7|2|6|2|2021-06-29|3|3|2|2|1|1|4|3
+PR6199|74F3-DF3D|Lian|Ouslem|Female|25|Some Travel|Human Resources|22|NY|Black or African American|2|Economics|HR Executive|Divorced|49131|1|No|2015-05-30|No|7|2|6|2|2022-06-29|4|4|5|2|0|2|4|3
+PR2112|388D-DB68|Maybelle|Hurler|Female|27|Some Travel|Human Resources|40|CA|White|3|Human Resources|Recruiter|Married|34320|1|No|2015-06-07|No|7|5|6|5|2018-02-13|5|4|2|3|3|4|5|5
+PR2843|388D-DB68|Maybelle|Hurler|Female|27|Some Travel|Human Resources|40|CA|White|3|Human Resources|Recruiter|Married|34320|1|No|2015-06-07|No|7|5|6|5|2019-02-13|5|4|4|3|2|4|5|4
+PR3697|388D-DB68|Maybelle|Hurler|Female|27|Some Travel|Human Resources|40|CA|White|3|Human Resources|Recruiter|Married|34320|1|No|2015-06-07|No|7|5|6|5|2020-02-13|4|4|3|1|2|5|5|4
+PR4669|388D-DB68|Maybelle|Hurler|Female|27|Some Travel|Human Resources|40|CA|White|3|Human Resources|Recruiter|Married|34320|1|No|2015-06-07|No|7|5|6|5|2021-02-12|3|4|4|3|1|2|4|3
+PR5732|388D-DB68|Maybelle|Hurler|Female|27|Some Travel|Human Resources|40|CA|White|3|Human Resources|Recruiter|Married|34320|1|No|2015-06-07|No|7|5|6|5|2022-02-12|5|5|5|2|0|4|5|5
+PR2738|89A6-7EF1|Johan|Rudinger|Male|26|Some Travel|Human Resources|11|NY|Asian or Asian American|3|Other|HR Executive|Single|70395|0|No|2016-07-11|No|6|5|6|2|2019-01-03|4|5|4|2|2|2|5|4
+PR3575|89A6-7EF1|Johan|Rudinger|Male|26|Some Travel|Human Resources|11|NY|Asian or Asian American|3|Other|HR Executive|Single|70395|0|No|2016-07-11|No|6|5|6|2|2020-01-03|3|4|2|3|0|5|5|5
+PR4537|89A6-7EF1|Johan|Rudinger|Male|26|Some Travel|Human Resources|11|NY|Asian or Asian American|3|Other|HR Executive|Single|70395|0|No|2016-07-11|No|6|5|6|2|2021-01-02|3|5|5|2|0|5|3|2
+PR5592|89A6-7EF1|Johan|Rudinger|Male|26|Some Travel|Human Resources|11|NY|Asian or Asian American|3|Other|HR Executive|Single|70395|0|No|2016-07-11|No|6|5|6|2|2022-01-02|3|3|4|3|1|2|3|2
+PR3494|6413-42F1|Gui|Olivello|Female|27|Some Travel|Human Resources|24|CA|Mixed or multiple ethnic groups|2|Other|HR Executive|Divorced|55206|0|No|2016-07-13|No|6|1|3|4|2019-11-25|5|5|2|2|2|3|5|4
+PR4443|6413-42F1|Gui|Olivello|Female|27|Some Travel|Human Resources|24|CA|Mixed or multiple ethnic groups|2|Other|HR Executive|Divorced|55206|0|No|2016-07-13|No|6|1|3|4|2020-11-24|4|3|4|1|2|3|4|4
+PR5490|6413-42F1|Gui|Olivello|Female|27|Some Travel|Human Resources|24|CA|Mixed or multiple ethnic groups|2|Other|HR Executive|Divorced|55206|0|No|2016-07-13|No|6|1|3|4|2021-11-24|3|3|2|2|1|3|4|3
+PR6611|6413-42F1|Gui|Olivello|Female|27|Some Travel|Human Resources|24|CA|Mixed or multiple ethnic groups|2|Other|HR Executive|Divorced|55206|0|No|2016-07-13|No|6|1|3|4|2022-11-24|4|2|5|2|1|2|5|5
+PR2960|DD1E-583D|Ashton|Lauga|Male|24|Some Travel|Human Resources|36|IL|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Married|29428|0|No|2017-03-02|No|5|5|5|0|2019-03-29|4|3|2|1|1|5|4|4
+PR3825|DD1E-583D|Ashton|Lauga|Male|24|Some Travel|Human Resources|36|IL|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Married|29428|0|No|2017-03-02|No|5|5|5|0|2020-03-28|4|2|5|2|1|2|5|4
+PR4814|DD1E-583D|Ashton|Lauga|Male|24|Some Travel|Human Resources|36|IL|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Married|29428|0|No|2017-03-02|No|5|5|5|0|2021-03-28|5|3|2|1|1|2|5|5
+PR5888|DD1E-583D|Ashton|Lauga|Male|24|Some Travel|Human Resources|36|IL|Mixed or multiple ethnic groups|3|Human Resources|Recruiter|Married|29428|0|No|2017-03-02|No|5|5|5|0|2022-03-28|1|2|2|2|1|2|5|4
+PR2731|8462-E88A|Renault|Dobbyn|Male|25|Some Travel|Human Resources|18|NY|Black or African American|4|Marketing |HR Business Partner|Single|190466|0|No|2017-03-26|No|5|2|2|5|2019-01-01|3|5|2|3|0|4|3|2
+PR3567|8462-E88A|Renault|Dobbyn|Male|25|Some Travel|Human Resources|18|NY|Black or African American|4|Marketing |HR Business Partner|Single|190466|0|No|2017-03-26|No|5|2|2|5|2020-01-01|3|5|5|3|0|2|5|5
+PR4527|8462-E88A|Renault|Dobbyn|Male|25|Some Travel|Human Resources|18|NY|Black or African American|4|Marketing |HR Business Partner|Single|190466|0|No|2017-03-26|No|5|2|2|5|2020-12-31|5|4|2|3|2|4|5|4
+PR5582|8462-E88A|Renault|Dobbyn|Male|25|Some Travel|Human Resources|18|NY|Black or African American|4|Marketing |HR Business Partner|Single|190466|0|No|2017-03-26|No|5|2|2|5|2021-12-31|4|2|5|2|3|5|4|4
+PR1023|DD04-BDF8|Kile|Notton|Male|25|Some Travel|Human Resources|44|CA|Black or African American|4|Economics|HR Executive|Married|132102|1|No|2017-04-23|No|5|5|5|0|2016-03-30|5|4|2|2|0|2|4|3
+PR1570|DD04-BDF8|Kile|Notton|Male|25|Some Travel|Human Resources|44|CA|Black or African American|4|Economics|HR Executive|Married|132102|1|No|2017-04-23|No|5|5|5|0|2017-03-30|4|3|3|3|3|4|3|2
+PR2220|DD04-BDF8|Kile|Notton|Male|25|Some Travel|Human Resources|44|CA|Black or African American|4|Economics|HR Executive|Married|132102|1|No|2017-04-23|No|5|5|5|0|2018-03-30|4|4|4|3|1|2|3|2
+PR587|DD04-BDF8|Kile|Notton|Male|25|Some Travel|Human Resources|44|CA|Black or African American|4|Economics|HR Executive|Married|132102|1|No|2017-04-23|No|5|5|5|0|2015-03-31|4|3|4|3|2|4|5|5
+PR1504|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2017-02-28|5|5|3|2|1|3|3|2
+PR2142|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2018-02-28|5|2|2|3|0|4|5|4
+PR227|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2014-03-01|4|3|2|2|2|5|3|3
+PR2877|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2019-02-28|3|2|2|3|0|4|5|5
+PR3731|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2020-02-28|5|3|3|2|2|3|3|2
+PR4709|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2021-02-27|3|2|2|1|1|3|3|3
+PR532|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2015-03-01|4|2|4|2|1|4|4|4
+PR5774|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2022-02-27|4|5|2|3|1|3|5|5
+PR64|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2013-03-01|3|3|4|2|2|5|5|5
+PR959|7749-B277|Caryl|Roycroft|Male|24|Some Travel|Human Resources|1|IL|Mixed or multiple ethnic groups|5|Human Resources|HR Executive|Married|44634|0|No|2017-04-25|Yes|4|3|3|2|2016-02-29|4|4|3|3|0|4|4|3
+PR1112|FFCF-0BD5|Sky|Mattioni|Prefer Not To Say|23|Some Travel|Human Resources|42|CA|Black or African American|1|Marketing |Recruiter|Married|30683|1|No|2017-06-25|No|5|5|5|5|2016-05-15|4|3|2|3|2|5|3|2
+PR1667|FFCF-0BD5|Sky|Mattioni|Prefer Not To Say|23|Some Travel|Human Resources|42|CA|Black or African American|1|Marketing |Recruiter|Married|30683|1|No|2017-06-25|No|5|5|5|5|2017-05-15|3|4|4|1|1|4|5|5
+PR2328|FFCF-0BD5|Sky|Mattioni|Prefer Not To Say|23|Some Travel|Human Resources|42|CA|Black or African American|1|Marketing |Recruiter|Married|30683|1|No|2017-06-25|No|5|5|5|5|2018-05-15|3|2|2|2|1|5|5|5
+PR665|FFCF-0BD5|Sky|Mattioni|Prefer Not To Say|23|Some Travel|Human Resources|42|CA|Black or African American|1|Marketing |Recruiter|Married|30683|1|No|2017-06-25|No|5|5|5|5|2015-05-16|5|3|3|1|1|2|3|3
+PR3625|74B4-CB7A|Eddi|Holywell|Non-Binary|26|No Travel |Human Resources|23|CA|White|3|Human Resources|HR Business Partner|Single|240035|0|Yes|2017-08-03|No|5|5|5|3|2020-01-19|2|3|4|2|2|2|3|2
+PR4593|74B4-CB7A|Eddi|Holywell|Non-Binary|26|No Travel |Human Resources|23|CA|White|3|Human Resources|HR Business Partner|Single|240035|0|Yes|2017-08-03|No|5|5|5|3|2021-01-18|4|3|5|2|2|3|3|2
+PR5654|74B4-CB7A|Eddi|Holywell|Non-Binary|26|No Travel |Human Resources|23|CA|White|3|Human Resources|HR Business Partner|Single|240035|0|Yes|2017-08-03|No|5|5|5|3|2022-01-18|3|2|2|3|1|5|5|5
+PR4418|1D32-9620|Eldredge|Probyn|Male|23|Some Travel|Human Resources|39|CA|Other |2|Human Resources|HR Executive|Married|55805|1|No|2017-10-29|No|5|3|3|1|2020-11-14|3|3|4|1|1|5|3|2
+PR5462|1D32-9620|Eldredge|Probyn|Male|23|Some Travel|Human Resources|39|CA|Other |2|Human Resources|HR Executive|Married|55805|1|No|2017-10-29|No|5|3|3|1|2021-11-14|4|3|4|3|2|2|5|4
+PR6576|1D32-9620|Eldredge|Probyn|Male|23|Some Travel|Human Resources|39|CA|Other |2|Human Resources|HR Executive|Married|55805|1|No|2017-10-29|No|5|3|3|1|2022-11-14|3|1|4|3|0|3|3|3
+PR3928|5639-70C0|Trudi|Evens|Female|36|Some Travel|Human Resources|31|IL|Black or African American|4|Human Resources|HR Manager|Divorced|509940|3|No|2018-01-15|No|4|4|4|2|2020-04-29|5|3|2|2|1|5|5|5
+PR4923|5639-70C0|Trudi|Evens|Female|36|Some Travel|Human Resources|31|IL|Black or African American|4|Human Resources|HR Manager|Divorced|509940|3|No|2018-01-15|No|4|4|4|2|2021-04-29|5|3|5|1|2|2|3|3
+PR6003|5639-70C0|Trudi|Evens|Female|36|Some Travel|Human Resources|31|IL|Black or African American|4|Human Resources|HR Manager|Divorced|509940|3|No|2018-01-15|No|4|4|4|2|2022-04-29|4|3|4|3|0|2|3|2
+PR3703|F1B6-31B7|Idette|Connett|Female|25|Some Travel|Human Resources|31|CA|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Married|48797|2|No|2018-04-28|No|4|2|4|4|2020-02-15|4|2|4|1|0|4|4|4
+PR4676|F1B6-31B7|Idette|Connett|Female|25|Some Travel|Human Resources|31|CA|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Married|48797|2|No|2018-04-28|No|4|2|4|4|2021-02-14|4|2|3|1|0|2|4|4
+PR5739|F1B6-31B7|Idette|Connett|Female|25|Some Travel|Human Resources|31|CA|Mixed or multiple ethnic groups|3|Marketing |HR Executive|Married|48797|2|No|2018-04-28|No|4|2|4|4|2022-02-14|4|4|5|2|1|4|5|5
+PR4151|F8D4-3CAB|Lynda|Robken|Non-Binary|23|Some Travel|Human Resources|45|CA|White|3|Marketing |HR Executive|Married|99052|2|No|2018-05-25|No|4|3|4|2|2020-07-18|3|3|2|3|2|5|5|4
+PR5164|F8D4-3CAB|Lynda|Robken|Non-Binary|23|Some Travel|Human Resources|45|CA|White|3|Marketing |HR Executive|Married|99052|2|No|2018-05-25|No|4|3|4|2|2021-07-18|5|5|4|3|0|2|3|3
+PR6267|F8D4-3CAB|Lynda|Robken|Non-Binary|23|Some Travel|Human Resources|45|CA|White|3|Marketing |HR Executive|Married|99052|2|No|2018-05-25|No|4|3|4|2|2022-07-18|3|4|4|2|0|4|4|4
+PR1118|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2016-05-19|4|3|3|3|1|3|5|5
+PR142|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2013-05-20|4|3|2|3|1|2|5|4
+PR1673|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2017-05-19|4|4|2|3|2|3|4|4
+PR2334|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2018-05-19|4|5|2|3|0|4|3|2
+PR3094|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2019-05-19|5|4|5|3|2|3|5|4
+PR337|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2014-05-20|4|3|4|2|1|2|3|3
+PR3982|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2020-05-18|4|5|2|3|2|2|5|5
+PR4981|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2021-05-18|3|4|5|1|0|5|5|4
+PR6063|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2022-05-18|4|4|3|2|0|5|5|5
+PR669|4D59-B831|Nell|Teague|Female|25|Some Travel|Human Resources|14|CA|Other |1|Human Resources|Recruiter|Married|22150|1|No|2018-06-25|Yes|2|0|1|1|2015-05-20|3|4|4|1|1|2|5|5
+PR3430|B375-26A9|Teressa|Attewell|Female|24|No Travel |Human Resources|5|NY|Asian or Asian American|3|Human Resources|HR Executive|Divorced|41745|3|No|2018-09-03|No|4|2|4|0|2019-10-26|5|4|5|2|0|3|3|2
+PR4370|B375-26A9|Teressa|Attewell|Female|24|No Travel |Human Resources|5|NY|Asian or Asian American|3|Human Resources|HR Executive|Divorced|41745|3|No|2018-09-03|No|4|2|4|0|2020-10-25|5|3|3|3|1|3|5|5
+PR5406|B375-26A9|Teressa|Attewell|Female|24|No Travel |Human Resources|5|NY|Asian or Asian American|3|Human Resources|HR Executive|Divorced|41745|3|No|2018-09-03|No|4|2|4|0|2021-10-25|4|4|3|3|0|3|5|4
+PR5213|4A0E-3728|Nancy|Summerton|Female|28|No Travel |Human Resources|4|IL|White|5|Economics|HR Executive|Married|152909|1|No|2019-02-15|No|3|1|3|2|2021-08-05|4|2|3|3|0|5|3|3
+PR6318|4A0E-3728|Nancy|Summerton|Female|28|No Travel |Human Resources|4|IL|White|5|Economics|HR Executive|Married|152909|1|No|2019-02-15|No|3|1|3|2|2022-08-05|3|4|2|1|1|5|3|2
+PR5520|C62F-44EF|Valeda|Napier|Female|39|Frequent Traveller|Human Resources|25|CA|Black or African American|3|Economics|HR Business Partner|Married|349233|1|No|2019-04-06|No|3|0|2|0|2021-12-10|4|2|4|1|1|3|5|4
+PR6646|C62F-44EF|Valeda|Napier|Female|39|Frequent Traveller|Human Resources|25|CA|Black or African American|3|Economics|HR Business Partner|Married|349233|1|No|2019-04-06|No|3|0|2|0|2022-12-10|5|2|4|1|2|4|4|3
+PR4707|0CFA-28A3|Duff|Rioch|Male|21|Frequent Traveller|Human Resources|42|CA|Black or African American|4|Other|HR Executive|Married|42303|1|Yes|2019-08-13|No|3|2|2|2|2021-02-26|5|3|4|1|0|5|4|4
+PR5772|0CFA-28A3|Duff|Rioch|Male|21|Frequent Traveller|Human Resources|42|CA|Black or African American|4|Other|HR Executive|Married|42303|1|Yes|2019-08-13|No|3|2|2|2|2022-02-26|5|4|3|1|1|2|3|3
+PR5398|5A29-B9F4|Nicoli|Shavel|Female|28|Some Travel|Human Resources|14|CA|White|4|Marketing |HR Executive|Single|149734|0|No|2020-01-02|No|2|0|1|1|2021-10-23|4|2|5|3|2|4|4|4
+PR1230|AFA8-5058|Dame|Andrzejewski|Male|20|Some Travel|Human Resources|8|CA|White|4|Human Resources|Recruiter|Divorced|26186|0|Yes|2020-03-06|Yes|2|0|0|0|2016-08-14|3|3|2|3|1|5|3|3
+PR1818|AFA8-5058|Dame|Andrzejewski|Male|20|Some Travel|Human Resources|8|CA|White|4|Human Resources|Recruiter|Divorced|26186|0|Yes|2020-03-06|Yes|2|0|0|0|2017-08-14|5|3|4|3|1|2|4|3
+PR2501|AFA8-5058|Dame|Andrzejewski|Male|20|Some Travel|Human Resources|8|CA|White|4|Human Resources|Recruiter|Divorced|26186|0|Yes|2020-03-06|Yes|2|0|0|0|2018-08-14|3|2|5|1|2|4|4|3
+PR3296|AFA8-5058|Dame|Andrzejewski|Male|20|Some Travel|Human Resources|8|CA|White|4|Human Resources|Recruiter|Divorced|26186|0|Yes|2020-03-06|Yes|2|0|0|0|2019-08-14|4|3|4|3|2|4|4|3
+PR380|AFA8-5058|Dame|Andrzejewski|Male|20|Some Travel|Human Resources|8|CA|White|4|Human Resources|Recruiter|Divorced|26186|0|Yes|2020-03-06|Yes|2|0|0|0|2014-08-15|4|5|5|1|3|2|3|2
+PR4210|AFA8-5058|Dame|Andrzejewski|Male|20|Some Travel|Human Resources|8|CA|White|4|Human Resources|Recruiter|Divorced|26186|0|Yes|2020-03-06|Yes|2|0|0|0|2020-08-13|4|3|3|3|1|3|4|3
+PR5231|AFA8-5058|Dame|Andrzejewski|Male|20|Some Travel|Human Resources|8|CA|White|4|Human Resources|Recruiter|Divorced|26186|0|Yes|2020-03-06|Yes|2|0|0|0|2021-08-13|5|3|4|2|1|2|3|2
+PR6337|AFA8-5058|Dame|Andrzejewski|Male|20|Some Travel|Human Resources|8|CA|White|4|Human Resources|Recruiter|Divorced|26186|0|Yes|2020-03-06|Yes|2|0|0|0|2022-08-13|2|1|4|1|1|3|3|2
+PR749|AFA8-5058|Dame|Andrzejewski|Male|20|Some Travel|Human Resources|8|CA|White|4|Human Resources|Recruiter|Divorced|26186|0|Yes|2020-03-06|Yes|2|0|0|0|2015-08-15|5|2|3|2|3|2|3|3
+PR6624|D676-2084|Shannon|Kuhnel|Male|21|Some Travel|Human Resources|41|NY|White|2|Economics|Recruiter|Single|20583|0|No|2020-06-20|No|2|0|1|0|2022-11-30|3|4|2|1|0|5|4|3
+PR6414|55A7-8D82|Allyn|Glyde|Non-Binary|23|Frequent Traveller|Human Resources|34|NY|White|4|Human Resources|HR Executive|Married|75948|0|No|2020-09-26|No|2|0|0|2|2022-09-11|1|3|2|3|0|1|4|3
+PR6463|EC4D-D0F3|Camilla|Caistor|Female|28|Some Travel|Human Resources|31|NY|White|3|Human Resources|HR Executive|Married|96807|1|No|2020-11-12|No|2|1|2|0|2022-09-30|2|2|2|2|1|1|5|4
+PR6699|CA1B-0302|Hestia|Pickin|Female|22|Some Travel|Human Resources|11|NY|White|3|Marketing |Recruiter|Married|26880|0|No|2020-12-10|No|2|2|2|1|2022-12-27|3|3|2|2|0|3|5|5
+PR1236|B76C-D9CE|Mada|Moss|Female|22|Some Travel|Human Resources|7|NY|White|2|Economics|Recruiter|Married|29322|0|Yes|2021-01-31|Yes|1|0|0|0|2016-08-18|4|5|4|3|0|3|4|4
+PR1828|B76C-D9CE|Mada|Moss|Female|22|Some Travel|Human Resources|7|NY|White|2|Economics|Recruiter|Married|29322|0|Yes|2021-01-31|Yes|1|0|0|0|2017-08-18|3|4|5|2|1|2|5|5
+PR2512|B76C-D9CE|Mada|Moss|Female|22|Some Travel|Human Resources|7|NY|White|2|Economics|Recruiter|Married|29322|0|Yes|2021-01-31|Yes|1|0|0|0|2018-08-18|3|2|3|2|1|4|4|4
+PR3310|B76C-D9CE|Mada|Moss|Female|22|Some Travel|Human Resources|7|NY|White|2|Economics|Recruiter|Married|29322|0|Yes|2021-01-31|Yes|1|0|0|0|2019-08-18|4|1|4|1|0|2|5|4
+PR383|B76C-D9CE|Mada|Moss|Female|22|Some Travel|Human Resources|7|NY|White|2|Economics|Recruiter|Married|29322|0|Yes|2021-01-31|Yes|1|0|0|0|2014-08-19|4|3|4|2|1|2|5|4
+PR4227|B76C-D9CE|Mada|Moss|Female|22|Some Travel|Human Resources|7|NY|White|2|Economics|Recruiter|Married|29322|0|Yes|2021-01-31|Yes|1|0|0|0|2020-08-17|5|4|5|3|2|3|5|5
+PR5248|B76C-D9CE|Mada|Moss|Female|22|Some Travel|Human Resources|7|NY|White|2|Economics|Recruiter|Married|29322|0|Yes|2021-01-31|Yes|1|0|0|0|2021-08-17|3|5|2|3|3|2|3|3
+PR6353|B76C-D9CE|Mada|Moss|Female|22|Some Travel|Human Resources|7|NY|White|2|Economics|Recruiter|Married|29322|0|Yes|2021-01-31|Yes|1|0|0|0|2022-08-17|3|2|5|1|0|3|3|2
+PR754|B76C-D9CE|Mada|Moss|Female|22|Some Travel|Human Resources|7|NY|White|2|Economics|Recruiter|Married|29322|0|Yes|2021-01-31|Yes|1|0|0|0|2015-08-19|3|5|2|2|3|5|3|3
+PR5672|81C2-E188|Nada|Finlator|Female|19|Some Travel|Human Resources|1|CA|White|3|Human Resources|HR Executive|Single|41958|1|No|2021-03-09|No|1|1|1|0|2022-01-26|2|2|1|3|0|3|5|5
+PR5564|B0C8-E3DF|Eleanor|Escalero|Female|19|Frequent Traveller|Human Resources|24|IL|White|3|Economics|Recruiter|Married|25838|1|No|2021-05-06|No|1|0|0|0|2021-12-24|5|2|2|2|0|5|4|3
+PR1136|F469-0427|Krissie|Albery|Female|19|Frequent Traveller|Human Resources|31|NY|White|4|Marketing |Recruiter|Single|36832|1|Yes|2022-02-20|Yes|0|0|0|0|2016-05-27|3|2|5|1|2|5|4|4
+PR1696|F469-0427|Krissie|Albery|Female|19|Frequent Traveller|Human Resources|31|NY|White|4|Marketing |Recruiter|Single|36832|1|Yes|2022-02-20|Yes|0|0|0|0|2017-05-27|4|3|5|3|1|5|3|3
+PR2357|F469-0427|Krissie|Albery|Female|19|Frequent Traveller|Human Resources|31|NY|White|4|Marketing |Recruiter|Single|36832|1|Yes|2022-02-20|Yes|0|0|0|0|2018-05-27|3|2|3|1|2|5|3|3
+PR3121|F469-0427|Krissie|Albery|Female|19|Frequent Traveller|Human Resources|31|NY|White|4|Marketing |Recruiter|Single|36832|1|Yes|2022-02-20|Yes|0|0|0|0|2019-05-27|4|5|4|1|0|4|3|2
+PR350|F469-0427|Krissie|Albery|Female|19|Frequent Traveller|Human Resources|31|NY|White|4|Marketing |Recruiter|Single|36832|1|Yes|2022-02-20|Yes|0|0|0|0|2014-05-28|5|5|2|1|0|4|4|4
+PR4011|F469-0427|Krissie|Albery|Female|19|Frequent Traveller|Human Resources|31|NY|White|4|Marketing |Recruiter|Single|36832|1|Yes|2022-02-20|Yes|0|0|0|0|2020-05-26|3|4|4|2|0|2|5|5
+PR5011|F469-0427|Krissie|Albery|Female|19|Frequent Traveller|Human Resources|31|NY|White|4|Marketing |Recruiter|Single|36832|1|Yes|2022-02-20|Yes|0|0|0|0|2021-05-26|3|4|2|2|0|4|5|5
+PR6097|F469-0427|Krissie|Albery|Female|19|Frequent Traveller|Human Resources|31|NY|White|4|Marketing |Recruiter|Single|36832|1|Yes|2022-02-20|Yes|0|0|0|0|2022-05-26|2|4|4|2|0|3|3|3
+PR684|F469-0427|Krissie|Albery|Female|19|Frequent Traveller|Human Resources|31|NY|White|4|Marketing |Recruiter|Single|36832|1|Yes|2022-02-20|Yes|0|0|0|0|2015-05-28|4|4|2|3|1|4|3|2
+PR1347|63BF-A86A|Ava|Galland|Female|39|Frequent Traveller|Human Resources|16|CA|White|3|Human Resources|HR Executive|Single|201564|3|Yes|2022-10-12|Yes|0|0|0|0|2016-12-09|3|2|5|1|1|5|5|4
+PR1975|63BF-A86A|Ava|Galland|Female|39|Frequent Traveller|Human Resources|16|CA|White|3|Human Resources|HR Executive|Single|201564|3|Yes|2022-10-12|Yes|0|0|0|0|2017-12-09|3|3|2|3|2|5|5|5
+PR2690|63BF-A86A|Ava|Galland|Female|39|Frequent Traveller|Human Resources|16|CA|White|3|Human Resources|HR Executive|Single|201564|3|Yes|2022-10-12|Yes|0|0|0|0|2018-12-09|4|4|2|2|1|2|4|3
+PR3519|63BF-A86A|Ava|Galland|Female|39|Frequent Traveller|Human Resources|16|CA|White|3|Human Resources|HR Executive|Single|201564|3|Yes|2022-10-12|Yes|0|0|0|0|2019-12-09|5|2|4|2|1|3|5|4
+PR428|63BF-A86A|Ava|Galland|Female|39|Frequent Traveller|Human Resources|16|CA|White|3|Human Resources|HR Executive|Single|201564|3|Yes|2022-10-12|Yes|0|0|0|0|2014-12-10|3|3|2|2|3|3|3|2
+PR4470|63BF-A86A|Ava|Galland|Female|39|Frequent Traveller|Human Resources|16|CA|White|3|Human Resources|HR Executive|Single|201564|3|Yes|2022-10-12|Yes|0|0|0|0|2020-12-08|4|4|4|3|0|2|3|2
+PR5516|63BF-A86A|Ava|Galland|Female|39|Frequent Traveller|Human Resources|16|CA|White|3|Human Resources|HR Executive|Single|201564|3|Yes|2022-10-12|Yes|0|0|0|0|2021-12-08|5|2|4|3|2|5|5|5
+PR6640|63BF-A86A|Ava|Galland|Female|39|Frequent Traveller|Human Resources|16|CA|White|3|Human Resources|HR Executive|Single|201564|3|Yes|2022-10-12|Yes|0|0|0|0|2022-12-08|5|4|5|2|1|3|3|2
+PR827|63BF-A86A|Ava|Galland|Female|39|Frequent Traveller|Human Resources|16|CA|White|3|Human Resources|HR Executive|Single|201564|3|Yes|2022-10-12|Yes|0|0|0|0|2015-12-10|3|5|5|2|2|4|3|2
